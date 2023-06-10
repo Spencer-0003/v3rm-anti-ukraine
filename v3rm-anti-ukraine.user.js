@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name        Anti Ukraine
-// @description Hide that disgusting Ukraine themed logo.
+// @name        Restore Logo
+// @description Removes v3rmillion's political bullshit.
 // @namespace   Violentmonkey Scripts
 // @match       https://v3rmillion.net/index.php
 // @match       https://v3rmillion.net/forumdisplay.php

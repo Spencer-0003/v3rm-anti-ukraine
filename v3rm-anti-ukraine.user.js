@@ -10,4 +10,4 @@
 // ==/UserScript==
 
 const div = document.getElementById('logo');
-div.outerHTML = div.outerHTML.replace('__ukraine', '');
+div.outerHTML = div.outerHTML.replace('__ukraine', '').replace('-pride', '');
